@@ -65,7 +65,7 @@
                 "userAssignedIdentities": {
                 "/subscriptions/ddf9ceca-778e-4b60-aca8-11eecc058085/resourceGroups/RG_WVD_AzureImageBuilder/providers/Microsoft.ManagedIdentity/userAssignedIdentities/aibIdentity": {}
                     
-            }
+            },
 			"properties": {
 				"source": {
 					"type": "PlatformImage",
